@@ -1,0 +1,114 @@
+.sweat {
+    background-image: url('./images/sweatpoint.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px; 
+    box-shadow: inset 0px 0px 150px black;
+    margin-top: 25px;
+}
+.classic {
+    background-image: url('./images/classicshirt.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+
+.softest {
+    background-image: url('./images/softesttshirt.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+
+.h:hover {
+    cursor: pointer;
+    background-repeat: no-repeat;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.shirt {
+    background-image: url('./images/linenshirt.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+.trouser {
+    background-image: url('./images/linentrouser.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+     width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+.shorts {
+    background-image: url('./images/linenshorts.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+     width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+.row {
+    column-gap: 30px;
+}
+body {
+    /* background-color: black;
+    color: white; */
+    font-family: "josefin Sans", sans-serif;
+
+}
+.easy {
+    background-image: url('./images/easy.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+.airSh {
+    background-image: url('./images/air.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+.golf {
+    background-image: url('./images/golf.jpg');
+    background-size: cover;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px; 
+    margin-top: 25px;
+    box-shadow: inset 0px 0px 150px black;
+}
+
+
+.logos:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px black;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+.logos {
+    margin-left: 15px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    background: none;
+}
